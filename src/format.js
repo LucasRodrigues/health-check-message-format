@@ -29,6 +29,3 @@ export default class Format {
     return data;
   }
 }
-
-console.log(
-);
