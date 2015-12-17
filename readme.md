@@ -1,7 +1,7 @@
 # Health Check Message Format
 
 ## CI
-[![Circle CI](https://circleci.com/gh/LucasRodrigues/health-check-message-format-/tree/master.svg?style=svg)](https://circleci.com/gh/LucasRodrigues/health-check-message-format-/tree/master)
+[![Circle CI](https://circleci.com/gh/LucasRodrigues/health-check-message-format/tree/master.svg?style=svg)](https://circleci.com/gh/LucasRodrigues/health-check-message-format/tree/master)
 
 ## Install
 
